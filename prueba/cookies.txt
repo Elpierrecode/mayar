@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.coloris.com.mx	TRUE	/	FALSE	1999999999	PHPSESSID	c6b4b72823df7d14ec613fe89460f2a4
+
